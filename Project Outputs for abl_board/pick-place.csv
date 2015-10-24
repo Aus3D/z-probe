@@ -1,0 +1,18 @@
+Designator,Footprint,Mid X,Mid Y,Ref X,Ref Y,Pad X,Pad Y,Layer,Rotation,Comment
+,,,,,,,,,,
+Q1,SFH3100F-footprint,7.912mm,2.252mm,8.81mm,3.15mm,8.81mm,3.15mm,T,225,SFH3100F
+D1,LED-2.54spacing,19.602mm,2.898mm,20.5mm,2mm,18.7039mm,3.7961mm,T,135,GL480E
+D2,LED-2.54spacing,23.477mm,2.148mm,24.375mm,1.25mm,22.5789mm,3.0461mm,T,135,GL480E
+C1,6.3-DIA-CAP,13.708mm,3.465mm,13.708mm,4.715mm,13.708mm,2.215mm,T,270,100µ
+R2,RESC1608X55N,16mm,8.5mm,16mm,8.5mm,16mm,7.65mm,T,90,Thick Film
+R1,RESC1608X55N,6mm,15.25mm,6mm,15.25mm,6mm,16.1mm,T,270,Thick Film
+C2,CAPC1608X90N,8mm,15.25mm,8mm,15.25mm,8mm,14.4mm,T,90,100n
+C3,CAPC1608X90N,6mm,7mm,6mm,7mm,6mm,6.15mm,T,90,1n
+LED1,LED-0603-RED,6mm,11.25mm,6mm,11.25mm,6mm,10.4mm,T,90,Red
+R3,RESC1608X55N,8mm,11.25mm,8mm,11.25mm,8mm,12.1mm,T,270,Thick Film
+R4,RESC1608X55N,12.1mm,8.5mm,12.1mm,8.5mm,12.1mm,7.65mm,T,90,Thick Film
+R5,RESC1608X55N,14mm,8.5mm,14mm,8.5mm,14mm,7.65mm,T,90,Thick Film
+R6,RESC1608X55N,8mm,7mm,8mm,7mm,8mm,7.85mm,T,270,Thick Film
+U1,8S2_N,15mm,14mm,15mm,14mm,11.6mm,15.905mm,T,360,ATtiny45-20SH
+L1,SMD-0603,18mm,8.5mm,18mm,8.5mm,18mm,9.275mm,T,270,1uH Inductor
+P2,S4B-XH-A(LF)(SN),24.25mm,11mm,24.25mm,14.75mm,24.25mm,12.25mm,T,0,S4B-XH-A(LF)(SN)

@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [abl_board.PrjPcb]
+   Generated File[mini-30mm-fan.GTL]
+   Generated File[mini-30mm-fan.GBL]
+   Generated File[mini-30mm-fan.GTO]
+   Generated File[mini-30mm-fan.GTP]
+   Generated File[mini-30mm-fan.GTS]
+   Generated File[mini-30mm-fan.GBS]
+   Generated File[mini-30mm-fan.GBP]
+   Generated File[mini-30mm-fan.GBO]
+   Generated File[mini-30mm-fan.GKO]
+   Generated File[mini-30mm-fan.RUL]
+   Generated File[mini-30mm-fan.EXTREP]
+   Generated File[mini-30mm-fan.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 12:22:10 PM On 13-Sep-15
