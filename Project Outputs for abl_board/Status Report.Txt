@@ -1,21 +1,10 @@
-Output: Gerber Files
-Type  : Gerber
+Output: Generates pick and place files
+Type  : Pick Place
 From  : Variant [[No Variations]] of Project [abl_board.PrjPcb]
-   Generated File[mini-30mm-fan.GTL]
-   Generated File[mini-30mm-fan.GBL]
-   Generated File[mini-30mm-fan.GTO]
-   Generated File[mini-30mm-fan.GTP]
-   Generated File[mini-30mm-fan.GTS]
-   Generated File[mini-30mm-fan.GBS]
-   Generated File[mini-30mm-fan.GBP]
-   Generated File[mini-30mm-fan.GBO]
-   Generated File[mini-30mm-fan.GKO]
-   Generated File[mini-30mm-fan.RUL]
-   Generated File[mini-30mm-fan.EXTREP]
-   Generated File[mini-30mm-fan.REP]
+   Generated File[Pick Place for mini-30mm-fan.csv]
 
 
-Files Generated   : 12
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 12:22:10 PM On 13-Sep-15
+Finished Output Generation At 9:11:42 PM On 2/22/2016
