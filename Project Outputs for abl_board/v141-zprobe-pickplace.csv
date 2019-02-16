@@ -1,0 +1,29 @@
+Altium Designer Pick and Place Locations
+D:\Git\z-probe\Project Outputs for abl_board\Pick Place for mini-30mm-fan.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       04/09/17
+Time:       22:49
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"C1","CAPE 100uF 16V THT","TopLayer","6-DIA-CAP","9.750","1.700","0",""
+"C2","approved sub OK","TopLayer","CAPC1608X90N","4.125","9.375","270","Capacitor SMD Cer 100nF 10% 50V X7R 0603"
+"C3","approved sub OK","TopLayer","CAPC1608X90N","2.000","5.000","90","Capacitor SMD Cer 1nF 10% 100V X7R 0603"
+"D1","GL480E","TopLayer","LED-2.54SPACING","15.602","1.398","135","GL480E"
+"D2","GL480E","TopLayer","LED-2.54SPACING","19.477","0.648","135","GL480E"
+"U1","ATtiny44A-MU","TopLayer","20M1_N","9.250","12.625","270","8-bit AVR Microcontroller,  20MHz, 1.8-5.5V, 4KB Flash, 256 Bytes EEPROM, 256 Bytes SRAM, 20-pin MLF, Industrial Grade (-40°C to 85°C), Pb-Free"
+"L1","7447965","TopLayer","SMD-0603","13.375","6.625","270","SMD-Multilayer Inductor WE-MI, L = 1.00 µH"
+"LED1","Red","TopLayer","LED-0603-RED","2.000","9.375","270","LED 0603 SMD Hyper Red 630nm 220mcd 20mA"
+"Q1","SFH3100F","TopLayer","SFH3100F-FOOTPRINT","3.912","0.752","225","SFH3100F"
+"R1","Thick Film","TopLayer","RESC1608X55N","2.000","13.625","270","Resistor SMD chip 330 Ohm 0.1W 5% 0603"
+"R2","Thick Film","TopLayer","RESC1608X55N","4.125","13.625","90","Resistor SMD chip 2.2k Ohm 0.1W 5% 0603"
+"P1","JST-SH 4P","TopLayer","SM04B-SRSS-TB","19.075","9.500","0",""
+"R3","Thick Film","TopLayer","RESC1608X55N","4.125","5.000","270","Resistor SMD chip 10k Ohm 0.1W 1% 0603"
+"R4","Thick Film","TopLayer","RESC1608X55N","6.375","6.625","270","Resistor SMD chip 10k Ohm 0.1W 1% 0603"
+"R5","Thick Film","TopLayer","RESC1608X55N","8.750","6.625","90","Resistor SMD chip 2.2k Ohm 0.1W 5% 0603"
+"R6","Thick Film","TopLayer","RESC1608X55N","11.125","6.625","90","Resistor SMD chip 2.2k Ohm 0.1W 5% 0603"
