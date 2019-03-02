@@ -1,0 +1,36 @@
+Altium Designer Pick and Place Locations
+G:\Git\z-probe\Source\Outputs\Pick Place for ir_probe.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       02/03/19
+Time:       21:13
+Revision:   6603b313172268bb82ae814b4463e52aae33373c
+Variant:    No variations
+Units used: mm
+
+"Designator","Layer","Center-X(mm)","Center-Y(mm)","Rotation"
+"R9","TopLayer","-3.1000","8.5000","90"
+"R8","TopLayer","2.6000","8.5000","90"
+"R7","BottomLayer","1.8000","1.3000","180"
+"R4","BottomLayer","-1.7000","1.3000","360"
+"Q2","BottomLayer","8.8000","2.4000","270"
+"Q1","TopLayer","-7.5000","2.3000","225"
+"LD3","TopLayer","-9.5000","10.2000","270"
+"LD2","TopLayer","8.7000","2.3000","135"
+"LD1","TopLayer","5.0000","2.8000","135"
+"F1","TopLayer","8.3000","16.2000","180"
+"D2","TopLayer","-1.1000","8.4750","270"
+"D1","TopLayer","3.0500","16.2000","180"
+"C1","TopLayer","-1.3000","2.8000","90"
+"C2","TopLayer","-7.8000","14.0000","270"
+"C3","TopLayer","-7.8000","6.7000","270"
+"U1","TopLayer","-4.0000","14.3000","270"
+"L1","TopLayer","4.1000","14.2000","180"
+"R1","TopLayer","-7.8000","10.2000","90"
+"R2","TopLayer","-9.5000","6.7000","270"
+"P1","TopLayer","8.2750","11.0000","0"
+"F2","TopLayer","1.0000","8.5000","270"
+"R5","TopLayer","-6.1000","8.5000","90"
+"R6","TopLayer","-4.6000","8.5000","90"
